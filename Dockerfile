@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.23.1-alpine
 
 LABEL Organization="CTFTraining" Author="Virink <virink@outlook.com>"
 
